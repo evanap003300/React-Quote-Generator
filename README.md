@@ -35,22 +35,3 @@ npm run dev
 
 Visit: http://localhost:5173
 
-⸻
-
-🧠 Future Improvements
-	•	Add category filter (e.g., Stoicism, Fitness, Business)
-	•	Integrate quote API
-	•	Allow users to save/share favorite quotes
-	•	Add animations and visual effects
-
-📸 Preview
-
-
-⸻
-
-🧑‍💻 Author
-
-Evan Phillips
-Computer Science @ UNC Chapel Hill
-Aspiring Software Engineer | Passionate about AI, Full Stack Development & Self-Improvement
-
